@@ -13,4 +13,4 @@ If `acmeaddr` is run from Acme, this variable will automatically be set.
 
 # Credits
 
-This is a port to Go of a [https://groups.google.com/g/plan9port-dev/c/u-Lb1Ds1DBg/m/5kyOGSdsgPoJ](C snippet) originally posted by Russ Cox in the plan9port-dev mailing list.
+This is a port to Go of a [C snippet](https://groups.google.com/g/plan9port-dev/c/u-Lb1Ds1DBg/m/5kyOGSdsgPoJ) originally posted by Russ Cox in the plan9port-dev mailing list.
