@@ -3,7 +3,7 @@ Command line utility to print the address of the current selection, meant to be 
 # Install
 
 ```bash
-go install github.com/cloudspinner/acmeaddr
+go install github.com/cloudspinner/acmeaddr@latest
 ```
 
 # Usage
